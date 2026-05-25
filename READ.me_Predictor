@@ -1,0 +1,67 @@
+## 📚 Dataset & Resources
+
+### Dataset Source
+
+This project uses the Medical Insurance Dataset available on Hugging Face.
+
+Dataset:
+https://huggingface.co/datasets/rahulvyasm/medical_insurance_data
+
+The dataset contains demographic and health-related attributes used to predict medical insurance costs.
+
+Features:
+- Age
+- Gender
+- BMI
+- Number of Children
+- Smoking Status
+- Region
+- Insurance Charges
+
+### Development Resources
+
+The following technologies and resources were used:
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+- Gradio
+- Joblib
+- Google Colab
+- GitHub
+- Hugging Face Datasets
+
+### Deployment & Demo
+
+Project Demo:
+https://share.google/CnD0cKRsXWIWvHke7
+
+GitHub Repository:
+https://github.com/merajali384022
+
+### Acknowledgements
+
+Special thanks to:
+
+- Rahul Vyas for providing the Medical Insurance Dataset.
+- Hugging Face for dataset hosting and AI tools.
+- Scikit-Learn contributors for machine learning libraries.
+- The open-source community for educational resources and documentation.
+
+
+## ⚠️ Disclaimer
+
+This project is for **educational and demonstration purposes only**. 
+
+The model predicts insurance cost risk based on historical data from the [Medical Insurance Dataset](https://huggingface.co/datasets/rahulvyasm/medical_insurance_data). It is not a medical or financial diagnostic tool.
+
+**Do not use these predictions for real-world medical, insurance, or financial decisions.** Consult qualified professionals for personalized advice.
+
+All code uses open-source libraries. No user data is stored or shared.
+
+
+
+Developed by=** MOHAMMAD MEHRAJ ALI.**
